@@ -1,0 +1,125 @@
+[33mcommit 28ed3d109e501f6bb0374fc6c166c7c98df7de00[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Lucas Garcez <lucasgarcezdev@gmail.com>
+Date:   Fri Mar 18 13:09:07 2022 -0300
+
+    fix typo on README
+
+[33mcommit fffe5b1e24c2ac5147e64cc3bb3db4bc9890b54c[m
+Author: Lucas Garcez <lucasgarcezdev@gmail.com>
+Date:   Thu Apr 8 19:03:48 2021 -0300
+
+    fix typo
+
+[33mcommit 35e80fa48f0c63155cb46f52bf1f1dbca468579f[m
+Author: Lucas Garcez <lucasgarcezdev@gmail.com>
+Date:   Sun Apr 4 15:46:00 2021 -0300
+
+    fix readme typo
+
+[33mcommit 9e3106e4112cc6144cb0529b022b438cbae3352b[m
+Author: LucasGarcez <lucasgarcezdev@gmail.com>
+Date:   Sun Apr 4 15:40:56 2021 -0300
+
+    add readme.md
+
+[33mcommit 682b98f5effd91d8317102fd559237832168aba2[m
+Author: LucasGarcez <lucasgarcezdev@gmail.com>
+Date:   Sun Apr 4 15:31:56 2021 -0300
+
+    add article-cover image
+
+[33mcommit e50c29f2f493cfb848c90ba437f782e821be75bc[m
+Author: LucasGarcez <lucasgarcezdev@gmail.com>
+Date:   Mon Mar 29 21:18:05 2021 -0300
+
+    improve coment
+
+[33mcommit fa033669333d9ffa4c7ce82ee27c39d52288fc32[m
+Author: LucasGarcez <lucasgarcezdev@gmail.com>
+Date:   Sun Mar 28 18:17:21 2021 -0300
+
+    update Router
+
+[33mcommit 18589212c29f42421783472e53ec746a1f050a91[m
+Author: LucasGarcez <lucasgarcezdev@gmail.com>
+Date:   Sun Mar 28 15:48:32 2021 -0300
+
+    fix typo
+
+[33mcommit 4f1be43cc79eb5d4f4c9b0c282203f668b7045af[m
+Author: LucasGarcez <lucasgarcezdev@gmail.com>
+Date:   Sun Mar 28 15:47:38 2021 -0300
+
+    service set timeout 1000
+
+[33mcommit 009c1ece506ab0fb53ad0240a7ff546431638f89[m
+Author: LucasGarcez <lucasgarcezdev@gmail.com>
+Date:   Sun Mar 28 15:36:45 2021 -0300
+
+    Loading component
+
+[33mcommit 46e51dd02fe2968e256961aa3d7e3c251738b4d1[m
+Author: LucasGarcez <lucasgarcezdev@gmail.com>
+Date:   Sun Mar 28 15:04:45 2021 -0300
+
+    fix typos
+
+[33mcommit 5c5950a7490460223b313616a41852d85579571e[m
+Author: LucasGarcez <lucasgarcezdev@gmail.com>
+Date:   Sun Mar 28 14:50:11 2021 -0300
+
+    document Auth with comments
+
+[33mcommit 02e104be81019706eae29d961407d3d5c0399321[m
+Author: LucasGarcez <lucasgarcezdev@gmail.com>
+Date:   Sun Mar 28 12:37:19 2021 -0300
+
+    add credentials on service and simplify Authdata
+
+[33mcommit b9919a8d1027e878db9d63151de299def6a16cba[m
+Author: LucasGarcez <lucasgarcezdev@gmail.com>
+Date:   Sun Mar 28 12:17:48 2021 -0300
+
+    update cocoapods version
+
+[33mcommit 038f7d958fc983704803f7ef2caab7aebd84f4f2[m
+Author: lucasgarcez <lucasgarcezdev@gmail.com>
+Date:   Sun Nov 8 16:21:53 2020 -0300
+
+    type AuthContextData
+
+[33mcommit e49e3f87f1fe24130d51c5b42b9fb592ae251ab2[m
+Author: lucasgarcez <lucasgarcezdev@gmail.com>
+Date:   Sun Nov 1 16:23:41 2020 -0300
+
+    using AsyncStorage.getItem
+
+[33mcommit 2f6a50a9905797ed0e921a3ce7170812240db0d2[m
+Author: lucasgarcez <lucasgarcezdev@gmail.com>
+Date:   Sun Nov 1 16:06:53 2020 -0300
+
+    loading sign in
+
+[33mcommit bd3d5f207511e611081171422c32a2643c54942a[m
+Author: lucasgarcez <lucasgarcezdev@gmail.com>
+Date:   Sun Nov 1 15:59:54 2020 -0300
+
+    finished default flow
+
+[33mcommit c2bd249a7dd4f255e44dea46a491d8a9739c264a[m
+Author: lucasgarcez <lucasgarcezdev@gmail.com>
+Date:   Sun Nov 1 14:25:13 2020 -0300
+
+    initial context and flow
+
+[33mcommit 478672707f823c211f9827f7ce9cd79a9e39d88d[m
+Author: lucasgarcez <lucasgarcezdev@gmail.com>
+Date:   Sun Nov 1 12:55:56 2020 -0300
+
+    first commit
+
+[33mcommit 60abb071c0f75b1c14e6bbc76a183dd41d7d508a[m
+Author: lucasgarcez <lucasgarcezdev@gmail.com>
+Date:   Sun Nov 1 12:55:30 2020 -0300
+
+    first commit
